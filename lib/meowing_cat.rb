@@ -1,5 +1,5 @@
 class Cat 
-  maru = Cat.new
-maru.name = "Maru"
+  toma = Cat.new
+toma.name = "Toma"
 
 
