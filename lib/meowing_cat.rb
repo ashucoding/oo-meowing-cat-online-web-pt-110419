@@ -1,15 +1,7 @@
-class Cat 
-  toma = Cat.new
-toma.name = "Toma"
-end
-toma.name
-end
+class Cat
+  attr_accessor :name
 
-class Cat 
   def meow
     puts "meow!"
+  end
 end
-toma.meow
-
-
-
