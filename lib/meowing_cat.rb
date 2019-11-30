@@ -10,7 +10,6 @@ class Cat
     puts "meow!"
 end
 toma.meow
-end
 
 
 
